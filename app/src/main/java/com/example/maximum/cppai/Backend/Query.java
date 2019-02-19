@@ -25,7 +25,7 @@ public class Query extends AsyncTask<String, Void, Response>{
 public static class GoogleAPI implements API {
     private String baseUrl = "https://kgsearch.googleapis.com/v1/entities:search?";
     private String limit = "1";
-    private final String ApiKey = "AIzaSyDmZHPRUgsFHPciwvLzD51N0C2PYh-Vobw";
+    private final String ApiKey = "GET FROM FRANK";
     /**
      * TODO: Dyanmically change USER_AGENT to be determinted automatically
      */
